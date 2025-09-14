@@ -40,8 +40,6 @@
 
 ### GitHub Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultenz&show_icons=true&locale=en&layout=compact" alt="sultenz" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sultenz&show_icons=true&locale=en" alt="sultenz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultenz&show_icons=true&locale=en&layout=compact" alt="sultenz" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sultenz&show_icons=true&locale=en" alt="sultenz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultenz&" alt="sultenz" /></p>
