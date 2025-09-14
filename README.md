@@ -1,11 +1,10 @@
 # Hi 👋, I'm Sultan
-
 ### A lazy developer from Borneo.
-
 - 🔭 I'm currently working on **verdex.id**
 - 👨‍💻 All of my projects are available at my repo, find it urself
-- ⚡ Fun fact:
-### **I'm not really an expert in all the languages and tools I work with, because I'm a GPT abuser**
+
+## ⚡ Fun Fact About Me :
+### I'm not really an expert in all the languages and tools I work with, because **I'm a GPT abuser** <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" height="50" />
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sultan%20akmal%20ghiffari)
