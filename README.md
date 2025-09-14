@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sultan
 ### A lazy developer from Borneo.
-- 🔭 I'm currently working on **verdex.id**
+- 🔭 I'm currently diving deep into **web & mobile development**
 - 👨‍💻 All of my projects are available at my repo, find it urself
 
 ## ⚡ Fun Fact About Me :
