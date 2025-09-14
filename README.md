@@ -11,7 +11,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sultan_a.g_)
 
 ### Languages and Tools:
-
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -39,7 +38,5 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### GitHub Stats:
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultenz&show_icons=true&locale=en&layout=compact" alt="sultenz" /></p> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultenz&" alt="sultenz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultenz&show_icons=true&locale=en&layout=compact&theme=dark" alt="sultenz" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultenz&theme=dark" alt="sultenz" /></p>
