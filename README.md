@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sultan
-### A lazy developer from Borneo.
+## A lazy developer from Borneo.
 - 🔭 I'm currently diving deep into **web & mobile development**
-- 👨‍💻 All of my projects are available at my repo, find it urself
+- 👨‍💻 All of my projects are available at my repo, find it urself :p
 
 ## ⚡ Fun Fact About Me :
 ### I'm not really an expert in all the languages and tools I work with, because **I'm a GPT abuser >:)**
