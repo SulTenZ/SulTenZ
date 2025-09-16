@@ -61,4 +61,3 @@
 
 ### GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultenz&show_icons=true&locale=en&layout=compact&theme=dark" alt="sultenz" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultenz&theme=dark" alt="sultenz" /></p>
