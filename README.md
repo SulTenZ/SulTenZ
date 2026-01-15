@@ -58,6 +58,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </p>
-
-### GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultenz&show_icons=true&locale=en&layout=compact&theme=dark" alt="sultenz" /></p> 
