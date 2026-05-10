@@ -3,9 +3,6 @@
 - 🔭 I'm currently diving deep into **web & mobile development**
 - 👨‍💻 All of my projects are available at my repo, find it urself :p
 
-## ⚡ Fun Fact About Me :
-### I'm not really an expert in all the languages and tools I work with, because **I'm a GPT abuser >:)**
-
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sultan%20akmal%20ghiffari)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sultan_a.g_)
