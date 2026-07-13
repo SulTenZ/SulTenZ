@@ -1,0 +1,94 @@
+<svg width="100%" viewBox="0 0 680 270" role="img" shape-rendering="crispEdges" xmlns="http://www.w3.org/2000/svg">
+<title>Taller sky pixel art dinosaur island banner with bigger name text</title>
+<desc>A taller pixel art sky with a larger name and tagline at the top, static sun, drifting clouds, a sea with a sandy island and two palm trees, a land dinosaur on the beach, a bobbing sea dinosaur, and a flying dinosaur looping across the sky</desc>
+<rect x="0" y="0" width="680" height="70" fill="#5EC1FF"/>
+<rect x="0" y="70" width="680" height="60" fill="#7ED2FF"/>
+<rect x="0" y="130" width="680" height="50" fill="#A8E4FF"/>
+<rect x="580" y="70" width="20" height="10" fill="#FFD966"/>
+<rect x="570" y="80" width="40" height="10" fill="#FFD966"/>
+<rect x="570" y="90" width="40" height="10" fill="#FFD966"/>
+<rect x="580" y="100" width="20" height="10" fill="#FFD966"/>
+<g fill="#ffffff">
+<animateTransform attributeName="transform" type="translate" values="0,0; -30,0; 0,0" dur="9s" repeatCount="indefinite"/>
+<rect x="60" y="60" width="16" height="8"/>
+<rect x="50" y="68" width="36" height="8"/>
+</g>
+<g fill="#ffffff">
+<animateTransform attributeName="transform" type="translate" values="0,0; 25,0; 0,0" dur="11s" repeatCount="indefinite"/>
+<rect x="300" y="55" width="16" height="8"/>
+<rect x="290" y="63" width="36" height="8"/>
+</g>
+<text x="340" y="26" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#ffffff" stroke="#1B3B5F" stroke-width="4" paint-order="stroke" letter-spacing="1">Sultan Akmal Ghiffari</text>
+<text x="340" y="46" text-anchor="middle" font-family="monospace" font-size="15" fill="#ffffff" stroke="#1B3B5F" stroke-width="3" paint-order="stroke">A lazy developer from Borneo</text>
+<rect x="0" y="180" width="680" height="35" fill="#1CA3EC"/>
+<rect x="0" y="215" width="680" height="25" fill="#0E86C5"/>
+<g fill="#ffffff" opacity="0.5">
+<animate attributeName="opacity" values="0.5;0.15;0.5" dur="1.6s" repeatCount="indefinite"/>
+<rect x="40" y="185" width="10" height="3"/>
+<rect x="200" y="190" width="10" height="3"/>
+<rect x="600" y="186" width="10" height="3"/>
+</g>
+<rect x="340" y="175" width="260" height="15" fill="#F4D58D"/>
+<rect x="340" y="185" width="260" height="6" fill="#E0B96D"/>
+<rect x="370" y="160" width="200" height="15" fill="#F4D58D"/>
+<rect x="400" y="145" width="140" height="15" fill="#F4D58D"/>
+<rect x="430" y="130" width="80" height="15" fill="#F4D58D"/>
+<g>
+<animateTransform attributeName="transform" type="rotate" values="-3 454 130; 3 454 130; -3 454 130" dur="2.8s" repeatCount="indefinite"/>
+<rect x="450" y="110" width="8" height="20" fill="#8B5E34"/>
+<rect x="456" y="98" width="8" height="14" fill="#8B5E34"/>
+<rect x="436" y="90" width="16" height="8" fill="#4CAF50"/>
+<rect x="454" y="84" width="16" height="8" fill="#388E3C"/>
+<rect x="468" y="90" width="18" height="8" fill="#4CAF50"/>
+<rect x="446" y="94" width="12" height="8" fill="#388E3C"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="rotate" values="4 495 130; -4 495 130; 4 495 130" dur="3.2s" repeatCount="indefinite"/>
+<rect x="492" y="116" width="6" height="14" fill="#8B5E34"/>
+<rect x="496" y="108" width="6" height="10" fill="#8B5E34"/>
+<rect x="484" y="100" width="12" height="6" fill="#4CAF50"/>
+<rect x="494" y="96" width="12" height="6" fill="#388E3C"/>
+</g>
+<rect x="0" y="240" width="680" height="30" fill="#F4D58D"/>
+<rect x="0" y="240" width="680" height="6" fill="#E0B96D"/>
+<g fill="#6BBF59">
+<rect x="60" y="218" width="18" height="6"/>
+<rect x="72" y="212" width="18" height="6"/>
+<rect x="84" y="200" width="30" height="24"/>
+<rect x="108" y="182" width="18" height="12"/>
+<rect x="120" y="176" width="12" height="12"/>
+<rect x="96" y="198" width="6" height="6"/>
+</g>
+<rect x="126" y="180" width="3" height="3" fill="#1B3B5F"/>
+<g fill="#519B44">
+<rect x="90" y="224" width="8" height="16">
+<animateTransform attributeName="transform" type="rotate" values="4 94 224; -4 94 224; 4 94 224" dur="1.6s" repeatCount="indefinite"/>
+</rect>
+<rect x="108" y="224" width="8" height="16">
+<animateTransform attributeName="transform" type="rotate" values="-4 112 224; 4 112 224; -4 112 224" dur="1.6s" repeatCount="indefinite"/>
+</rect>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="2.2s" repeatCount="indefinite"/>
+<rect x="230" y="220" width="40" height="6" fill="#0E86C5"/>
+<rect x="240" y="210" width="10" height="30" fill="#1E8FA6"/>
+<rect x="248" y="190" width="10" height="24" fill="#1E8FA6"/>
+<rect x="256" y="178" width="14" height="14" fill="#1E8FA6"/>
+<rect x="264" y="182" width="3" height="3" fill="#0B4A57"/>
+</g>
+<g>
+<animateMotion path="M580,130 C 450,90 250,90 100,130 C 250,170 450,170 580,130 Z" dur="12s" repeatCount="indefinite"/>
+<g>
+<animateTransform attributeName="transform" type="scale" values="1,1; 1,0.6; 1,1" dur="0.5s" repeatCount="indefinite" additive="sum"/>
+<rect x="-20" y="0" width="20" height="6" fill="#A5602A"/>
+<rect x="-10" y="-6" width="20" height="6" fill="#C97B3D"/>
+</g>
+<rect x="0" y="0" width="14" height="8" fill="#C97B3D"/>
+<rect x="14" y="0" width="10" height="6" fill="#C97B3D"/>
+<g>
+<animateTransform attributeName="transform" type="scale" values="1,1; 1,0.6; 1,1" dur="0.5s" repeatCount="indefinite" additive="sum"/>
+<rect x="14" y="0" width="20" height="6" fill="#A5602A"/>
+<rect x="24" y="-6" width="20" height="6" fill="#C97B3D"/>
+</g>
+</g>
+</svg>
