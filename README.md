@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/SulTenZ/SulTenZ/main/assets/dino-banner.svg" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Web+%26+Mobile+Developer;Diving+deep+into+Next.js+%26+Flutter;Building+cool+stuff+one+bug+at+a+time+%F0%9F%90%9B" alt="Typing SVG" />
 </div>
 <br>
 
@@ -81,10 +80,4 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulTenZ&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0077B5&height=100&section=footer"/>
 </div>
