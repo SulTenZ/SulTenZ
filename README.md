@@ -24,7 +24,6 @@
 ## 🚀 Currently Working On
 | Project | Description | Repo |
 |---|---|---|
-| **Rooma Ceritarasa** | 🚧 Work in progress | [ruangcode-id/rooma-ceritarasa](https://github.com/ruangcode-id/rooma-ceritarasa) |
 | **Sakala** | 🚧 Work in progress | [gmedia/sakala-console](https://github.com/gmedia/sakala-console) |
 
 <br>
