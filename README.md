@@ -25,6 +25,7 @@
 | Project | Description | Repo |
 |---|---|---|
 | **Sakala** | 🚧 Work in progress | [gmedia/sakala-console](https://github.com/gmedia/sakala-console) |
+| **Marketing Workspace** | 🚧 Work in progress | [gmedia/sakala-console](https://github.com/gmedia/marketing-workspace) |
 
 <br>
 
